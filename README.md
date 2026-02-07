@@ -43,6 +43,16 @@ cart.html
 login.html
 admin.html
 
+## Screenshots
+
+### Home Page
+![Home Page](images/Hme.png)
+
+### Products Page
+![Products Page](images/products.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/Admin.png)
 
 ---
 
