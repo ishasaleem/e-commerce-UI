@@ -46,13 +46,13 @@ admin.html
 ## Screenshots
 
 ### Home Page
-![Home Page](images/Hme.png)
+![Home Page](images/Home.PNG)
 
 ### Products Page
-![Products Page](images/products.png)
+![Products Page](images/products.PNG)
 
 ### Admin Dashboard
-![Admin Dashboard](images/Admin.png)
+![Admin Dashboard](images/Admin.PNG)
 
 ---
 
